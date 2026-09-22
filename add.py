@@ -1,5 +1,5 @@
 a=10
 b=20
 c=30
-d=welcome
-print(welcome)
+d=tester
+print("tester")
