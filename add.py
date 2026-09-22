@@ -1,5 +1,6 @@
 a=10
 b=20
 c=30
-d=tester
-print("tester")
+d=(devloper)
+e=(new devloper)
+print(" new devloper""
